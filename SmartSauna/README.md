@@ -19,12 +19,9 @@ The code for the Arduino Nano microcontroller was written in C using Arduino IDE
 The data was transmitted into Arduino Cloud using the built-in wifi of the Nano board.
 
 ## Pictures
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/70c508c4-02b9-4f28-9231-c2bbf18eeb44" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/b4889494-4470-41df-90c3-982fbf893442" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/40ff59a8-8a08-4597-ba8c-7740f3cf6fa2" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/44dd8f9e-a8b3-4fb8-8450-54bcffe5b1dc" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/5ee940f9-2c25-405c-81ac-1e3649614628" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/4fc59ba1-3426-407f-96b5-338588fc2569" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/09c40f6f-0aa0-4c7f-9df5-12dafa8660a9" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/43bb7db1-b8ee-44f8-8a27-a0232ff7a9d4" height="300">
-<img src="https://github.com/mikkeohukainen/SmartSauna-study-project/assets/128467511/1a891964-c403-4ad7-89f8-7818edf3e618" height="300">
+![IG_story_1_valmis](https://github.com/mikkeohukainen/School/assets/128467511/f5742914-0cb5-40ae-a54d-4921eca24012)
+![Kuvat_posteriin](https://github.com/mikkeohukainen/School/assets/128467511/820d9a97-725a-4c9e-8043-e3d6081bf9d4)
+![Kytkentäkaavio_päivitetty](https://github.com/mikkeohukainen/School/assets/128467511/1e910373-33aa-4203-afd5-aa4ac5ac4dd8)
+
+
+
