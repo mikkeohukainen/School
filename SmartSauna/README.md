@@ -8,11 +8,10 @@ Design and build a system that monitors its environment with sensors and control
 Working with two of my class mates, we designed and developed a sensor system around an Arduino Nano 33 IoT, that is used for measuring the environment of a sauna.
 It incorporates various sensors for measuring temperatures, humidity and door opening frequencies.
 
-### DHT22
 Two DHT22 -sensors were used to monitor the temperature and humidity levels both inside the sauna and outdoors.
-### MAX6675
+
 A MAX6675 -thermocouple sensor was placed inside the chimney to get the temperature of the stove.
-### Reed switch
+
 Two Reed switches were used to monitor the usage of two doors leading in to the sauna room.
 
 ## Software and cloud
